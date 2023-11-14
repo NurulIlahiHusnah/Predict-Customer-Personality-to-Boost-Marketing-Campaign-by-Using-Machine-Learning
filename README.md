@@ -4,7 +4,7 @@ The use of the internet and advances in technology provide many opportunities fo
 
 Give convertion rate :
 
-![Conversion Rate](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/5e146003-ddcf-45d3-bc67-923424e5eb3b)
+![Conversion Rate](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/a1e4f702-815a-4f26-81e9-cdc62b979de3)
 
 
 **Why is Analysis important?**
@@ -22,38 +22,42 @@ Give convertion rate :
 
 ## Early Insight from the data
 1. *Exploratory Data Analysis* (EDA)
-- Education <br>
-![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/1ffbf450-1f68-42e5-ba73-e75a0fe25f5d)
 
+![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d59813a0-71e3-46a7-a027-2048e60d2669)
 
-![Income per group age](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/f5bcaf5f-28a8-49cf-a82a-6e6c1fcff071)
+![Income per group age](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/c52feb34-ea52-4cc2-a2c8-59247a4829aa)
 
-![Marital Status](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/bd5aeec5-6c37-432a-b82a-6aab7cddfcdc)
+![Marital Status](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/6d98e2a3-2576-4891-a6e1-27463927bbf6)
+
 
 ## Riset
 Segmenting by applying the k-means clustering algorithm to existing datasets, and choosing the right number of clusters by looking at the elbow method, and evaluating using silhouette scores.
 <br>
 *The following are the results of the elbow method evaluation:* 
 <br>
-![Elbow](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/8f3be31b-36b6-4e63-8869-c1bcd5839072)
+![Elbow](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d9c7fee1-7ac1-4809-877b-7cb4156176ae)
 
 
 *Here are the results of the silhouette score evaluation:* <br>
-![Silhouette](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/0089f160-cfd8-4243-a40b-994a3777059b)
+![Silhouette](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/67646402-139a-41de-8ecb-0bafa912b65d)
 
 <br>
+
+![PCA](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/3035ed15-1503-4bd2-a674-3b23f95a35ce)
+
 
 *Here result income per cluster, revenue product per cluster, Business Ecosystem and Marketing,Number Campaign by Cluster, Traffic campaingn per Month:* <br>
 
 
-![Preferred Product](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/f0f58607-fc0c-4b3d-8037-ef6e0d7a16e6)
+![Preferred Product](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/f4addadf-39fd-465a-8a5a-db88ffcd603f)
+
+![trafic campaign](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/4e1fcbd4-1794-49e9-973a-017eb08b9280)
+
+![Number Campaign by Cluster](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/8bba1a17-f96b-446e-a370-82b5890907c7)
+
+![Business Ecosystem and Marketing](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/362e4503-a90c-4277-b873-62704e2e3e62)
 
 
-![trafic campaign](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/64c989da-1bcb-484f-a21b-0a773e5521ca)
-
-![Number Campaign by Cluster](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/be747eb4-71cf-4459-99da-d104d041b0d8)
-
-![Business Ecosystem and Marketing](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/4e7e73f2-35b8-4a1c-a781-c4ed352f3a6f)
 
 
 
