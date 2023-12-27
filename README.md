@@ -2,6 +2,10 @@
 # Problem Statement 
 The use of the internet and advances in technology provide many opportunities for business people to achieve success. All these conveniences are certainly accompanied by various challenges and tight competition. The need for a more effective and targeted marketing campaign strategy is the key to business success. Traditional marketing approaches often use broad segmentation that fails to capture the unique characteristics and preferences of each customer. As a result of ineffective marketing campaigns, wastage of resources and low conversion rates. The purpose of the research is to utilize machine learning techniques to predict customer personality characteristics by using information to improve marketing campaigns. By analyzing various data such as customer demographic data, online activities, calculating the coversion rate of each category for the purpose of developing an accurate predictive model.
 
+**Metrics**
+- Convertion rate
+- 
+
 Give convertion rate :
 
 ![Capture](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d583da2e-d1e1-40b1-8901-74db1b62d9ef)
