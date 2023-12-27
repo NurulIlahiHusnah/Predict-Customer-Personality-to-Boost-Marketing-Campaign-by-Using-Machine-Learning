@@ -4,7 +4,8 @@ The use of the internet and advances in technology provide many opportunities fo
 
 Give convertion rate :
 
-![Conversion Rate](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/a1e4f702-815a-4f26-81e9-cdc62b979de3)
+![Capture](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d583da2e-d1e1-40b1-8901-74db1b62d9ef)
+
 
 
 **Why is Analysis important?**
@@ -21,7 +22,7 @@ Give convertion rate :
 - The dataset contains customer demographic data, campaign traffic data, revenue from each product, and purchasing channels. <br>
 
 ## Early Insight from the data
-1. *Exploratory Data Analysis* (EDA)
+1. *Marketing Retargeting* 
 
 ![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d59813a0-71e3-46a7-a027-2048e60d2669)
 
@@ -39,11 +40,12 @@ Segmenting by applying the k-means clustering algorithm to existing datasets, an
 
 
 *Here are the results of the silhouette score evaluation:* <br>
-![Silhouette](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/67646402-139a-41de-8ecb-0bafa912b65d)
+![Alt text](image-1.png)
 
 <br>
 
-![PCA](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/3035ed15-1503-4bd2-a674-3b23f95a35ce)
+![2](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/eba6d2eb-f64c-4ec2-85ca-39abb230a489)
+
 
 
 *Here result income per cluster, revenue product per cluster, Business Ecosystem and Marketing,Number Campaign by Cluster, Traffic campaingn per Month:* <br>
