@@ -95,14 +95,13 @@ The sample obtained from the results of the K-Means algorithm is 3 clusters, nam
 # Business Recommendations <br>
 With the above results for business recommendations that can be used:
 
-1. Enhance the campaign in terms of concept, visualization, and other aspects to adjust deals purchases targeting the median spender and risk churn spender clusters.
-2. In terms of the business ecosystem and marketing, among the four concepts mentioned above, there is a need for further improvement in deals purchases to continually strengthen the ecosystem. This can be achieved through offering promotions, shopping vouchers, free shipping, or other discounts to boost sales.
-3. Conduct retargeting marketing and focus on growth in Clusters 1 and 2.
-4. Make improvements for up-selling and cross-selling
-5. Maintain customer retention rates, existing customers tend to earn more compared to new customers.
+1.  Focus on campaigns that have a high impact and continue to improve the quality of these campaigns.
+2. Rearrange the focus of the targets to be targeted to suit the campaign concept.
+3. Improvements to the overall business ecosystem to increase the level of customer confidence in carrying out transactions both offline and online.
 
 
 ## 🔗 Links
 ![tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)https://public.tableau.com/app/profile/nurul.ilahi.husnah/viz/Boost_campaign/Dashboard1
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-ilahi-husnah27/)
+
