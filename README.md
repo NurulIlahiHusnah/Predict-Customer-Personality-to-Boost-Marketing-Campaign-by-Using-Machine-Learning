@@ -68,16 +68,29 @@ Determining customer segments with the K-Means Cluster concept, using the elbow 
 
 ![14](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d18673dd-92ef-45df-8381-8e0e90581af5)
 
-
-
-The sample obtained from the results of the K-Means algorithm is 3 clusters, namely:
-1. High Spender
-2. Medium Spender
-3. Risk Of Churn Spender
-<br>
-
 # Summary
-
+The sample obtained from the results of the K-Means algorithm is 3 clusters, namely:
+1. High Spender (Cluster 2) : 
+    - high income
+    - high response
+    - education is dominated by Bachelor's degrees but there are no high school graduates
+    - Meat and coke products sell best as a whole cluster, this cluster has the best product sellers
+    - The most frequently visited campaign is campaign 5
+    - The highest business ecosystem is in shops, catalogs and the web 
+2. Medium Spender
+    - moderate income
+    - medium response
+    - education is dominated by Bachelor's degrees but there are very few high school graduates.
+    - Meat and coke products sell best as a whole cluster, this cluster has the second best product seller
+    - The most frequently visited campaign is campaign 4
+    - The highest business ecosystem is in shops, web and purchase deals
+3. Risk Of Churn Spender
+    - low income
+    - low response
+    - education is dominated by S1, all graduates are there.
+    - The product seller is very low
+    - The most frequently visited campaign is campaign 3
+    - The highest business ecosystem is in shops, web and purchase deals
 
 # Business Recommendations <br>
 With the above results for business recommendations that can be used:
