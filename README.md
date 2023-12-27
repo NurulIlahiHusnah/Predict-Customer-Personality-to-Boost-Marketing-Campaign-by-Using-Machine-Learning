@@ -33,7 +33,7 @@ Give convertion rate :
 
 ## Riset
 
-    Determining customer segments with the K-Means Cluster concept, using the elbow algorithm to produce optimal K values. Then evaluate the K value with the Silhoutte Score.
+Determining customer segments with the K-Means Cluster concept, using the elbow algorithm to produce optimal K values. Then evaluate the K value with the Silhoutte Score.
 <br>
 
 *The following are the results of the elbow method:* 
