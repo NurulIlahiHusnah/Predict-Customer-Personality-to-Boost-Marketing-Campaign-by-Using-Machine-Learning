@@ -44,7 +44,8 @@ Give convertion rate :
 
 
 *Here are the results of the silhouette score evaluation:* <br>
-![Alt text](image-1.png)
+![1](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/50872d2a-d030-4903-8dfb-7f8338b857c0)
+
 
 <br>
 
