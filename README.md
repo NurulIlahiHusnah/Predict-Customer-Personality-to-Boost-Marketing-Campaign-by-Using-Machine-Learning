@@ -25,12 +25,10 @@ Give convertion rate :
 
 ![3](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/e7fd8bc4-2042-4ef9-975e-54a804f1912f)
 
-![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d59813a0-71e3-46a7-a027-2048e60d2669)
+![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d59813a0-71e3-46a7-a027-2048e60d2669)  ![Marital Status](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/6d98e2a3-2576-4891-a6e1-27463927bbf6)
 
 ![4](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/b988b743-41f2-4bf4-b24e-c82dbebb1fe2)
 
-
-![Marital Status](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/6d98e2a3-2576-4891-a6e1-27463927bbf6)
 
 
 ## Riset
