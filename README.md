@@ -4,7 +4,6 @@ The use of the internet and advances in technology provide many opportunities fo
 
 **Metrics**
 - Convertion rate
-- 
 
 Give convertion rate :
 
