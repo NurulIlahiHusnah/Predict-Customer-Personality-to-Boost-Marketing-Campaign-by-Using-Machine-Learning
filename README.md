@@ -22,19 +22,23 @@ Give convertion rate :
 - The dataset contains customer demographic data, campaign traffic data, revenue from each product, and purchasing channels. <br>
 
 ## Early Insight from the data
-1. *Marketing Retargeting* 
+
+![3](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/e7fd8bc4-2042-4ef9-975e-54a804f1912f)
 
 ![Education](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d59813a0-71e3-46a7-a027-2048e60d2669)
 
-![Income per group age](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/c52feb34-ea52-4cc2-a2c8-59247a4829aa)
+![4](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/b988b743-41f2-4bf4-b24e-c82dbebb1fe2)
+
 
 ![Marital Status](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/6d98e2a3-2576-4891-a6e1-27463927bbf6)
 
 
 ## Riset
-Segmenting by applying the k-means clustering algorithm to existing datasets, and choosing the right number of clusters by looking at the elbow method, and evaluating using silhouette scores.
+
+    Determining customer segments with the K-Means Cluster concept, using the elbow algorithm to produce optimal K values. Then evaluate the K value with the Silhoutte Score.
 <br>
-*The following are the results of the elbow method evaluation:* 
+
+*The following are the results of the elbow method:* 
 <br>
 ![Elbow](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d9c7fee1-7ac1-4809-877b-7cb4156176ae)
 
@@ -44,22 +48,26 @@ Segmenting by applying the k-means clustering algorithm to existing datasets, an
 
 <br>
 
+*Here are the results visualization of the PCA:* 
+
 ![2](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/eba6d2eb-f64c-4ec2-85ca-39abb230a489)
 
 
+## Marketing Retargeting
 
 *Here result income per cluster, revenue product per cluster, Business Ecosystem and Marketing,Number Campaign by Cluster, Traffic campaingn per Month:* <br>
 
 
-![Preferred Product](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/f4addadf-39fd-465a-8a5a-db88ffcd603f)
+![6](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/23bb70c7-2299-4dd4-942d-46436a7a7002)  ![9](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/2cc8ff2a-15b2-447c-a2d2-41983d9eb91c)
 
-![trafic campaign](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/4e1fcbd4-1794-49e9-973a-017eb08b9280)
-
-![Number Campaign by Cluster](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/8bba1a17-f96b-446e-a370-82b5890907c7)
-
-![Business Ecosystem and Marketing](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/362e4503-a90c-4277-b873-62704e2e3e62)
+![11](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/4282fcdb-134a-4d89-b004-5fec449d77d1)   ![10](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/e7061d88-0310-44c2-ad80-a1af90af8b1e)
 
 
+
+![7](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/f36a077f-a127-4491-af6a-8601268a0172)   ![13](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/9e514da2-c793-4710-bf2b-bbeec135377c)
+
+
+![14](https://github.com/NurulIlahiHusnah/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/125198828/d18673dd-92ef-45df-8381-8e0e90581af5)
 
 
 
@@ -68,6 +76,9 @@ The sample obtained from the results of the K-Means algorithm is 3 clusters, nam
 2. Medium Spender
 3. Risk Of Churn Spender
 <br>
+
+# Summary
+
 
 # Business Recommendations <br>
 With the above results for business recommendations that can be used:
