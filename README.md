@@ -77,14 +77,14 @@ The sample obtained from the results of the K-Means algorithm is 3 clusters, nam
     - Meat and coke products sell best as a whole cluster, this cluster has the best product sellers
     - The most frequently visited campaign is campaign 5
     - The highest business ecosystem is in shops, catalogs and the web 
-2. Medium Spender
+2. Medium Spender (Cluster 0)
     - moderate income
     - medium response
     - education is dominated by Bachelor's degrees but there are very few high school graduates.
     - Meat and coke products sell best as a whole cluster, this cluster has the second best product seller
     - The most frequently visited campaign is campaign 4
     - The highest business ecosystem is in shops, web and purchase deals
-3. Risk Of Churn Spender
+3. Risk Of Churn Spender (Cluster 1)
     - low income
     - low response
     - education is dominated by S1, all graduates are there.
