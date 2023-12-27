@@ -78,7 +78,7 @@ The sample obtained from the results of the K-Means algorithm is 3 clusters, nam
     - The most frequently visited campaign is campaign 5
     - The highest business ecosystem is in shops, catalogs and the web 
 2. Medium Spender (Cluster 0)
-    - moderate income
+    - medium income
     - medium response
     - education is dominated by Bachelor's degrees but there are very few high school graduates.
     - Meat and coke products sell best as a whole cluster, this cluster has the second best product seller
